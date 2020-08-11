@@ -1,0 +1,2 @@
+# TrashGUI
+yes
